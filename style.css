@@ -1,0 +1,25 @@
+.heading {
+    width: 80%;
+    font-size: 25px;
+}
+body {
+    font-family: Georgia, serif;
+    font-style: italic;
+    background-color: cornsilk;
+    font-weight: 800;
+}
+.list_of_objects {
+    font-size: 18px;
+}
+.button_style {
+    font-size: 18px;
+}
+#camera, #result {
+    width: 400px;
+    height: 300px;
+    border: lawngreen dashed 5px;
+}
+#object_name, #accuracy_percentage {
+    font-size: 23px;
+    color: green;
+}
